@@ -4,3 +4,10 @@
 node_modules/
 *.pem
 fiveserver.config.js
+/.vs
+/.vs
+/.vs
+/bundle.js
+/index.html
+/package-lock.json
+/package.json
